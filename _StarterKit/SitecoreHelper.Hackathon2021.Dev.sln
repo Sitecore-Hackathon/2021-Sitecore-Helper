@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{17DD5718-6E13-4F2C-9738-B410396D4552}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{15D97D61-D597-42EC-B7E9-E9EC8130E630}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Solution", "_Solution", "{ADCA10F7-A1D2-407B-8074-60418168C02E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		nuget.config = nuget.config
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DependencyInjection", "DependencyInjection", "{0707429A-273E-449D-BF2F-ADD817167E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreHelper.Hackathon2021.Dev.Foundation.DependenyInjection", "..\src\Foundation\DependencyInjection\code\SitecoreHelper.Hackathon2021.Dev.Foundation.DependenyInjection.csproj", "{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{379B036D-22C8-48A0-8C7D-28EF3A8DBE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreHelper.Hackathon2021.Dev.Foundation.Serialization", "..\src\Foundation\Serialization\code\SitecoreHelper.Hackathon2021.Dev.Foundation.Serialization.csproj", "{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Local|Any CPU = Local|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}.Local|Any CPU.ActiveCfg = Local|Any CPU
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}.Local|Any CPU.Build.0 = Local|Any CPU
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}.Local|Any CPU.ActiveCfg = Local|Any CPU
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}.Local|Any CPU.Build.0 = Local|Any CPU
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0707429A-273E-449D-BF2F-ADD817167E2F} = {4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE} = {0707429A-273E-449D-BF2F-ADD817167E2F}
+		{379B036D-22C8-48A0-8C7D-28EF3A8DBE53} = {4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6} = {379B036D-22C8-48A0-8C7D-28EF3A8DBE53}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {311DA37D-528B-43B2-A99B-E7253F841D46}
+	EndGlobalSection
+EndGlobal
