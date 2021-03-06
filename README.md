@@ -38,7 +38,6 @@ _You can alternately paste a [link here](#docs) to a document within this repo c
 ⟹ [Replace this Video link](#video-link)
 
 
-
 ## Pre-requisites and Dependencies
 
 - Sitecore 10.1
@@ -47,8 +46,9 @@ _You can alternately paste a [link here](#docs) to a document within this repo c
 _Remove this subsection if your entry does not have any prerequisites other than Sitecore_
 
 ## Installation instructions
+-	Download the package from packages folder (https://github.com/Sitecore-Hackathon/2021-Sitecore-Helper/blob/develop/Packages)
 -	Go to Development Tools -> Installation Wizard.
--	Upload the .zip package.
+-	Upload the .zip package. 
 -	Click on Install and wait for the installation process to finish.
 -	Make sure you restart the Sitecore client after installation is finished.
 
