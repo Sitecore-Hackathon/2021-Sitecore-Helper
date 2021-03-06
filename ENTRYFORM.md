@@ -103,3 +103,32 @@ Step 2: click on run and then you should be able to see the list of items associ
 ![image](https://user-images.githubusercontent.com/47169646/110219500-95287800-7ee5-11eb-8767-c78e44c08921.png)
 
 
+User Session Details: -
+
+![image](https://user-images.githubusercontent.com/47169646/110219971-842d3600-7ee8-11eb-8dc0-7a057e2c686d.png)
+
+This module can be executed to find all user details who logged into CMS.
+Step 1: select the date and time filter from when you want to run the report
+
+![image](https://user-images.githubusercontent.com/47169646/110219983-960ed900-7ee8-11eb-8ecb-9f48abcf7a86.png)
+
+Step 2: click on run and then you should be able to see the list of users logged and there last activity time.
+
+![image](https://user-images.githubusercontent.com/47169646/110219988-a32bc800-7ee8-11eb-9d47-08a1da4cbf58.png)
+
+Cache Viewer: -
+
+![image](https://user-images.githubusercontent.com/47169646/110219994-af178a00-7ee8-11eb-97c5-3beff91061b4.png)
+
+This module can be executed to find all cache details of the website within the CMS instead of going to aspx page.
+
+Step 1: click on run and then you should be able to see the list of all cache in the website
+
+![image](https://user-images.githubusercontent.com/47169646/110220002-bd65a600-7ee8-11eb-93c2-5cb557253c37.png)
+
+
+Selecting specific row and clicking open cache button on ribbon will open the specific cache where user can delete the cache and see details.
+
+
+
+
