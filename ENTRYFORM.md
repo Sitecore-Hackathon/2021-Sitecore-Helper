@@ -72,10 +72,12 @@ No additional configuration is needed for these tools and reports to work.
 
 After installing the package, go to Desktop mode and verify the reports were created under Reporting Tools -> PowerShell Reports -> Content Editor Tools and services
 
-![image](https://user-images.githubusercontent.com/47169646/110219426-29dea600-7ee5-11eb-88ef-37b6d7e0f2b8.png)
+![image](https://user-images.githubusercontent.com/47169646/110219907-0f59fc00-7ee8-11eb-8382-482d6147e9e1.png)
+
 
 SEO Metadata
-This module gives Content editors/marketers info metadata fields on the page. This module generates the list of pages which have Meta keywords or Meta Description empty
+
+This module gives Content editors/marketers info about metadata fields on the page. This module generates the list of pages which have Meta keywords or Meta Description  fields empty
 
 ![image](https://user-images.githubusercontent.com/47169646/110219436-3b27b280-7ee5-11eb-827d-517dfb3825dc.png)
 
@@ -85,9 +87,11 @@ Step 1: content authors must select a node whose child items are to be verified
 
 Step 2: Once clicked on run button, a report is generated with the list of items which have meta data fields empty
 
-Find Unused Campaigns
+Items with Campaigns
 
-![image](https://user-images.githubusercontent.com/47169646/110219460-6b6f5100-7ee5-11eb-8806-77520b79bfc2.png)
+![image](https://user-images.githubusercontent.com/47169646/110219918-1ed94500-7ee8-11eb-89bb-4d3d4b130b0b.png)
+
+
 
 This module can be executed against each campaign to find out any unused Campaigns
 Step 1: select the Campaign and root item path
@@ -97,5 +101,34 @@ Step 1: select the Campaign and root item path
 Step 2: click on run and then you should be able to see the list of items associated with that campaign.
 
 ![image](https://user-images.githubusercontent.com/47169646/110219500-95287800-7ee5-11eb-8767-c78e44c08921.png)
+
+
+User Session Details: -
+
+![image](https://user-images.githubusercontent.com/47169646/110219971-842d3600-7ee8-11eb-8dc0-7a057e2c686d.png)
+
+This module can be executed to find all user details who logged into CMS.
+Step 1: select the date and time filter from when you want to run the report
+
+![image](https://user-images.githubusercontent.com/47169646/110219983-960ed900-7ee8-11eb-8ecb-9f48abcf7a86.png)
+
+Step 2: click on run and then you should be able to see the list of users logged and there last activity time.
+
+![image](https://user-images.githubusercontent.com/47169646/110219988-a32bc800-7ee8-11eb-9d47-08a1da4cbf58.png)
+
+Cache Viewer: -
+
+![image](https://user-images.githubusercontent.com/47169646/110219994-af178a00-7ee8-11eb-97c5-3beff91061b4.png)
+
+This module can be executed to find all cache details of the website within the CMS instead of going to aspx page.
+
+Step 1: click on run and then you should be able to see the list of all cache in the website
+
+![image](https://user-images.githubusercontent.com/47169646/110220002-bd65a600-7ee8-11eb-93c2-5cb557253c37.png)
+
+
+Selecting specific row and clicking open cache button on ribbon will open the specific cache where user can delete the cache and see details.
+
+
 
 

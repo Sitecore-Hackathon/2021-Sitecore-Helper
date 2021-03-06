@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{17DD5718-6E13-4F2C-9738-B410396D4552}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{15D97D61-D597-42EC-B7E9-E9EC8130E630}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Solution", "_Solution", "{ADCA10F7-A1D2-407B-8074-60418168C02E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		Directory.build.props = Directory.build.props
+		Directory.build.targets = Directory.build.targets
+		nuget.config = nuget.config
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{58F4090A-484B-41B7-A025-2EB2095775AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreHelper.Hackathon2021.Dev.Foundation.Serialization", "src\Foundation\Serialization\code\SitecoreHelper.Hackathon2021.Dev.Foundation.Serialization.csproj", "{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DependencyInjection", "DependencyInjection", "{BD2D5D63-10AC-4E36-B379-208C34C9EB96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreHelper.Hackathon2021.Dev.Foundation.DependenyInjection", "src\Foundation\DependencyInjection\code\SitecoreHelper.Hackathon2021.Dev.Foundation.DependenyInjection.csproj", "{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Orm", "Orm", "{A673386F-9E51-4F02-ADC2-777FB4FF335B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreHelper.Hackathon2021.Dev.Foundation.Orm", "src\Foundation\Orm\code\SitecoreHelper.Hackathon2021.Dev.Foundation.Orm.csproj", "{26823C79-3FFC-4323-B752-353F2D5FFFF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserTracker", "UserTracker", "{A232E9F9-9301-4A82-A5F4-C57D37586A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreHelper2021.Feature.UserTracker", "src\Feature\UserTracker\code\SitecoreHelper2021.Feature.UserTracker.csproj", "{8FE0C31A-ED41-4268-B329-6C8D52CE7AE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Local|Any CPU = Local|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}.Local|Any CPU.ActiveCfg = Local|Any CPU
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}.Local|Any CPU.Build.0 = Local|Any CPU
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}.Local|Any CPU.ActiveCfg = Local|Any CPU
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}.Local|Any CPU.Build.0 = Local|Any CPU
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26823C79-3FFC-4323-B752-353F2D5FFFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26823C79-3FFC-4323-B752-353F2D5FFFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26823C79-3FFC-4323-B752-353F2D5FFFF5}.Local|Any CPU.ActiveCfg = Release|Any CPU
+		{26823C79-3FFC-4323-B752-353F2D5FFFF5}.Local|Any CPU.Build.0 = Release|Any CPU
+		{26823C79-3FFC-4323-B752-353F2D5FFFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26823C79-3FFC-4323-B752-353F2D5FFFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE0C31A-ED41-4268-B329-6C8D52CE7AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE0C31A-ED41-4268-B329-6C8D52CE7AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE0C31A-ED41-4268-B329-6C8D52CE7AE2}.Local|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE0C31A-ED41-4268-B329-6C8D52CE7AE2}.Local|Any CPU.Build.0 = Release|Any CPU
+		{8FE0C31A-ED41-4268-B329-6C8D52CE7AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE0C31A-ED41-4268-B329-6C8D52CE7AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{58F4090A-484B-41B7-A025-2EB2095775AD} = {4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}
+		{22A2B11A-B41B-426C-9202-AEBB6C9B5CA6} = {58F4090A-484B-41B7-A025-2EB2095775AD}
+		{BD2D5D63-10AC-4E36-B379-208C34C9EB96} = {4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}
+		{FA1EEE78-E6D6-4B63-A126-5F470624EFEE} = {BD2D5D63-10AC-4E36-B379-208C34C9EB96}
+		{A673386F-9E51-4F02-ADC2-777FB4FF335B} = {4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}
+		{26823C79-3FFC-4323-B752-353F2D5FFFF5} = {A673386F-9E51-4F02-ADC2-777FB4FF335B}
+		{A232E9F9-9301-4A82-A5F4-C57D37586A56} = {17DD5718-6E13-4F2C-9738-B410396D4552}
+		{8FE0C31A-ED41-4268-B329-6C8D52CE7AE2} = {A232E9F9-9301-4A82-A5F4-C57D37586A56}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {311DA37D-528B-43B2-A99B-E7253F841D46}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal
