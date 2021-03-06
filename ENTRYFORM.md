@@ -72,7 +72,8 @@ No additional configuration is needed for these tools and reports to work.
 
 After installing the package, go to Desktop mode and verify the reports were created under Reporting Tools -> PowerShell Reports -> Content Editor Tools and services
 
-![image](https://user-images.githubusercontent.com/47169646/110219426-29dea600-7ee5-11eb-88ef-37b6d7e0f2b8.png)
+![image](https://user-images.githubusercontent.com/47169646/110219907-0f59fc00-7ee8-11eb-8382-482d6147e9e1.png)
+
 
 SEO Metadata
 
@@ -86,9 +87,11 @@ Step 1: content authors must select a node whose child items are to be verified
 
 Step 2: Once clicked on run button, a report is generated with the list of items which have meta data fields empty
 
-Find Campaigns
+Items with Campaigns
 
-![image](https://user-images.githubusercontent.com/47169646/110219460-6b6f5100-7ee5-11eb-8806-77520b79bfc2.png)
+![image](https://user-images.githubusercontent.com/47169646/110219918-1ed94500-7ee8-11eb-89bb-4d3d4b130b0b.png)
+
+
 
 This module can be executed against each campaign to find out any unused Campaigns
 Step 1: select the Campaign and root item path
