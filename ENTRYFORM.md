@@ -75,6 +75,7 @@ After installing the package, go to Desktop mode and verify the reports were cre
 ![image](https://user-images.githubusercontent.com/47169646/110219426-29dea600-7ee5-11eb-88ef-37b6d7e0f2b8.png)
 
 SEO Metadata
+
 This module gives Content editors/marketers info metadata fields on the page. This module generates the list of pages which have Meta keywords or Meta Description empty
 
 ![image](https://user-images.githubusercontent.com/47169646/110219436-3b27b280-7ee5-11eb-827d-517dfb3825dc.png)
