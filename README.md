@@ -24,7 +24,7 @@ Sitecore Helper
 Best use of SPE to help Content authors and Marketers
 
 ## Description
-⟹ 
+⟹ This module includes reports and tools developed in SPE to help Content Authors and Marketers obtain quick and important information about the content they are working on. The following is a list of the tools and reports included in this package:
 
 _You can alternately paste a [link here](#docs) to a document within this repo containing the description._
 
