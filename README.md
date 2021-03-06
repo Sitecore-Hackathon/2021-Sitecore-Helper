@@ -25,9 +25,13 @@ Best use of SPE to help Content authors and Marketers
 
 ## Description
 ⟹ Our module includes reports developed in SPE to help Content Authors and Marketers get information about the content they are working on. The following is a list of the tools and reports included in this package:
+
  1.SEO Metadata
+ 
  2.Items with Campaigns
+
  3.User Session Details
+ 
  4.Cache Viewer
 
 _You can alternately paste a [link here](#docs) to a document within this repo containing the description._
