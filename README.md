@@ -58,7 +58,7 @@ After installing the package, go to Desktop mode and verify the reports were cre
 ![image](https://user-images.githubusercontent.com/47169646/110219907-0f59fc00-7ee8-11eb-8382-482d6147e9e1.png)
 
 
-SEO Metadata
+## SEO Metadata
 
 This module gives Content editors/marketers info about metadata fields on the page. This module generates the list of pages which have Meta keywords or Meta Description  fields empty
 
@@ -70,10 +70,9 @@ Step 1: content authors must select a node whose child items are to be verified
 
 Step 2: Once clicked on run button, a report is generated with the list of items which have meta data fields empty
 
-Items with Campaigns
+## Items with Campaigns
 
 ![image](https://user-images.githubusercontent.com/47169646/110219918-1ed94500-7ee8-11eb-89bb-4d3d4b130b0b.png)
-
 
 
 This module can be executed against each campaign to find out any unused Campaigns
@@ -86,7 +85,7 @@ Step 2: click on run and then you should be able to see the list of items associ
 ![image](https://user-images.githubusercontent.com/47169646/110219500-95287800-7ee5-11eb-8767-c78e44c08921.png)
 
 
-User Session Details: -
+## User Session Details: -
 
 ![image](https://user-images.githubusercontent.com/47169646/110219971-842d3600-7ee8-11eb-8dc0-7a057e2c686d.png)
 
@@ -99,7 +98,7 @@ Step 2: click on run and then you should be able to see the list of users logged
 
 ![image](https://user-images.githubusercontent.com/47169646/110219988-a32bc800-7ee8-11eb-9d47-08a1da4cbf58.png)
 
-Cache Viewer: -
+## Cache Viewer: -
 
 ![image](https://user-images.githubusercontent.com/47169646/110219994-af178a00-7ee8-11eb-97c5-3beff91061b4.png)
 
