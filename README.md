@@ -8,20 +8,13 @@
 
 # Hackathon Submission Entry form
 
-> __Important__  
-> 
-> Copy and paste the content of this file into README.md or face automatic __disqualification__  
-> All headlines and subheadlines shall be retained if not noted otherwise.  
-> Fill in text in each section as instructed and then delete the existing text, including this blockquote.
-
 You can find a very good reference to Github flavoured markdown reference in [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you want something a bit more WYSIWYG for editing then could use [StackEdit](https://stackedit.io/app) which provides a more user friendly interface for generating the Markdown code. Those of you who are [VS Code fans](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) can edit/preview directly in that interface too.
 
 ## Team name
 
 Sitecore Helper
 
-## Category
-Best use of SPE to help Content authors and Marketers
+**Category:** Best use of SPE to help Content authors and Marketers
 
 ## Description
 ⟹ Our module includes reports developed in SPE to help Content Authors and Marketers get information about the content they are working on. The following is a list of the tools and reports included in this package:
@@ -33,13 +26,15 @@ Best use of SPE to help Content authors and Marketers
  3.User Session Details
  
  4.Cache Viewer
+ 
+ 5. Page and data items keyword Report
+ 
+ 6. User Item Updates Report
 
-_You can alternately paste a [link here](#docs) to a document within this repo containing the description._
 
 ## Video link
-⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
 
-⟹ [Replace this Video link](#video-link)
+⟹ [https://www.youtube.com/watch?v=iSecRkGTEk8](#video-link)
 
 
 ## Pre-requisites and Dependencies
