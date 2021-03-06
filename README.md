@@ -24,11 +24,7 @@ Sitecore Helper
 Best use of SPE to help Content authors and Marketers
 
 ## Description
-⟹ Write a clear description of your hackathon entry.  
-
-  - Module Purpose
-  - What problem was solved (if any)
-    - How does this module solve it
+⟹ 
 
 _You can alternately paste a [link here](#docs) to a document within this repo containing the description._
 
@@ -41,42 +37,22 @@ _You can alternately paste a [link here](#docs) to a document within this repo c
 
 ## Pre-requisites and Dependencies
 
-⟹ Does your module rely on other Sitecore modules or frameworks?
-
-- List any dependencies
+- Sitecore 10.1
 - Or other modules that must be installed
 - Or services that must be enabled/configured
 
 _Remove this subsection if your entry does not have any prerequisites other than Sitecore_
 
 ## Installation instructions
-⟹ Write a short clear step-wise instruction on how to install your module.  
-
-> _A simple well-described installation process is required to win the Hackathon._  
-> Feel free to use any of the following tools/formats as part of the installation:
-> - Sitecore Package files
-> - Docker image builds
-> - Sitecore CLI
-> - msbuild
-> - npm / yarn
-> 
-> _Do not use_
-> - TDS
-> - Unicorn
- 
-f. ex. 
-
-1. Start docker environment using `.\Start-Hackathon.ps1`
-2. Open solution in Visual Studio and run build
-3. Use the Sitecore Installation wizard to install the [package](#link-to-package)
-4. ...
-5. profit
+-	Go to Development Tools -> Installation Wizard.
+-	Upload the .zip package.
+-	Click on Install and wait for the installation process to finish.
+-	Make sure you restart the Sitecore client after installation is finished.
 
 ### Configuration
 No additional configuration is needed for these tools and reports to work.
 
 ## Usage instructions
-
 
 After installing the package, go to Desktop mode and verify the reports were created under Reporting Tools -> PowerShell Reports -> Content Editor Tools and services
 
