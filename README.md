@@ -38,8 +38,7 @@ _You can alternately paste a [link here](#docs) to a document within this repo c
 ## Pre-requisites and Dependencies
 
 - Sitecore 10.1
-- Or other modules that must be installed
-- Or services that must be enabled/configured
+- Sitecore SPE
 
 _Remove this subsection if your entry does not have any prerequisites other than Sitecore_
 
