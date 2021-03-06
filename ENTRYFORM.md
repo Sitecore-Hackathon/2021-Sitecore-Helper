@@ -71,6 +71,7 @@ No additional configuration is needed for these tools and reports to work.
 
 
 After installing the package, go to Desktop mode and verify the reports were created under Reporting Tools -> PowerShell Reports -> Content Editor Tools and services
+
 ![image](https://user-images.githubusercontent.com/47169646/110219426-29dea600-7ee5-11eb-88ef-37b6d7e0f2b8.png)
 
 SEO Metadata
