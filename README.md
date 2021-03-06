@@ -42,8 +42,6 @@ Sitecore Helper
 - Sitecore 10.1
 - Sitecore SPE
 
-_Remove this subsection if your entry does not have any prerequisites other than Sitecore_
-
 ## Installation instructions
 -	Download the package from packages folder (https://github.com/Sitecore-Hackathon/2021-Sitecore-Helper/tree/main/sc.packages)
 -	Go to Development Tools -> Installation Wizard.
@@ -114,6 +112,28 @@ Step 1: click on run and then you should be able to see the list of all cache in
 
 Selecting specific row and clicking open cache button on ribbon will open the specific cache where user can delete the cache and see details.
 
+
+## Page and data items keyword Report: -
+![image](https://user-images.githubusercontent.com/4286941/110221737-040ccd80-7ef4-11eb-947f-d3c71d94b169.png)
+
+This module is to show all the page/data items which has specific keyword present as part of Item name, this can be extended further to include other fields also.
+Step 1:  Select all the input filters and you should be able to see all the items which has this keyword present.
+
+![image](https://user-images.githubusercontent.com/4286941/110221820-54842b00-7ef4-11eb-893c-036c65201d2b.png)
+
+![image](https://user-images.githubusercontent.com/4286941/110221831-66fe6480-7ef4-11eb-9b68-f7ba6e2c1d36.png)
+
+
+## User Item Updates Report: -
+![image](https://user-images.githubusercontent.com/4286941/110221854-86958d00-7ef4-11eb-91b4-8af11d80f777.png)
+
+This module to list down all the items which has been updated by specific user in a given period of time.
+
+Step 1: Select all the input params and get list of items which are updated by user.
+
+![image](https://user-images.githubusercontent.com/4286941/110221892-c2c8ed80-7ef4-11eb-998d-587b28f71ab3.png)
+
+![image](https://user-images.githubusercontent.com/4286941/110221899-cfe5dc80-7ef4-11eb-8095-8f6323f6140f.png)
 
 
 
