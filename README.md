@@ -27,14 +27,14 @@ Sitecore Helper
  
  4.Cache Viewer
  
-5. Page and data items keyword Report
+ 5.Page and data items keyword Report
  
-6. User Item Updates Report
+ 6.User Item Updates Report
 
 
 ## Video link
 
-⟹ [https://www.youtube.com/watch?v=iSecRkGTEk8](#video-link)
+⟹ [https://www.youtube.com/watch?v=iSecRkGTEk8]
 
 
 ## Pre-requisites and Dependencies
@@ -45,7 +45,7 @@ Sitecore Helper
 _Remove this subsection if your entry does not have any prerequisites other than Sitecore_
 
 ## Installation instructions
--	Download the package from packages folder (https://github.com/Sitecore-Hackathon/2021-Sitecore-Helper/blob/develop/Packages)
+-	Download the package from packages folder (https://github.com/Sitecore-Hackathon/2021-Sitecore-Helper/tree/main/sc.packages)
 -	Go to Development Tools -> Installation Wizard.
 -	Upload the .zip package. 
 -	Click on Install and wait for the installation process to finish.
