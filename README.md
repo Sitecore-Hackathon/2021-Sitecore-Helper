@@ -27,9 +27,9 @@ Sitecore Helper
  
  4.Cache Viewer
  
- 5. Page and data items keyword Report
+5. Page and data items keyword Report
  
- 6. User Item Updates Report
+6. User Item Updates Report
 
 
 ## Video link
